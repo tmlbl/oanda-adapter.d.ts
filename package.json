@@ -1,0 +1,23 @@
+{
+  "name": "oanda-adapter.d.ts",
+  "version": "1.0.0",
+  "description": "TSD for oanda-adapter",
+  "main": "index.js",
+  "dependencies": {
+    "oanda-adapter": "^0.1.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tsc; node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tmlbl/oanda-adapter.d.ts.git"
+  },
+  "author": "tmlbl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmlbl/oanda-adapter.d.ts/issues"
+  },
+  "homepage": "https://github.com/tmlbl/oanda-adapter.d.ts"
+}
